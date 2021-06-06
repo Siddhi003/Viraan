@@ -39,7 +39,7 @@ We are trying to solve the following social problems
 ## How to get started locally?
 - Fork and Clone the Repo
 ```
-$ git clone https://github.com/Nishtha0801/Viraan.git
+$ git clone https://github.com/Siddhi003/Viraan.git
 $ cd Viraan
 $ cd viraan
 ```
