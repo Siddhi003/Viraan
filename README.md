@@ -4,7 +4,7 @@
 Viraan is an ecosystem that generates employment and combats waste management and segregation at its core. The eco system consists of users, vendors, NGOs and volunteers. We have built an app, Viraan, which facilitates the selling of segregated waste from user. The users sell their waste via our app, volunteers collect the waste and sell it to vendors for proper waste management for eg, plastic to recycling unit. The NGOs are part of our business model as they offer education and free meals to the children of our volunteers, which encourages them to work in our ecosystem and in return we publish offers by the patrons of the NGOs on our app.
 ## Demo Video:
 
-<a href="https://www.youtube.com/watch?v=mU-vpal-M_s"> <img src="https://github.com/Nishtha0801/Viraan/blob/main/viraan/assets/images/tree.png" alt="Demo Video" height='300' width='200'/> </a>
+<a href="https://www.youtube.com/watch?v=StUiE9GAuB8"> <img src="https://github.com/Nishtha0801/Viraan/blob/main/viraan/assets/images/tree.png" alt="Demo Video" height='300' width='200'/> </a>
 
 ## Tech Stack
 - Figma: The UI/UX design is being created on figma. 
